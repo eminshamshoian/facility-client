@@ -1,0 +1,147 @@
+.actions a {
+    margin-top: -5px;
+    padding-right: 15px;
+}
+
+.actions-bg {
+    background: #a8a8a84b;
+}
+
+.disabled {
+    cursor: none;
+    color: #989fa5;
+}
+
+.table-button {
+    color: #625af5 !important;
+    transition: color 0.2s linear;
+}
+
+.table-button:hover {
+    color: #4f49b9 !important;
+    transition: color 0.2s linear;
+}
+
+.icon {
+    color: #625af5;
+}
+
+.table thead {
+    border: 1px solid #625af5 !important;
+}
+
+.table thead th {
+    border: 0.1rem solid #8f8f8f;
+}
+
+.table tbody tr td {
+    border-bottom: 1px solid #cfcfcf;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+.table tr:hover {
+    background-color: #625af513;
+}
+
+.font-13 {
+    font-size: 13px !important;
+}
+.font-14 {
+    font-size: 14px !important;
+}
+.text-muted {
+    color: #494e52 !important;
+}
+
+.bg-light {
+    background-color: #ffffff !important;
+}
+
+.mb-0,
+.my-0 {
+    margin-bottom: 0 !important;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1.5rem;
+    color: #303030;
+}
+table {
+    border-collapse: collapse;
+}
+
+.avatar-sm {
+    height: 2.25rem;
+    width: 2.25rem;
+}
+
+.rounded-circle {
+    border-radius: 50% !important;
+}
+.img-thumbnail {
+    padding: 0.25rem;
+    background-color: #414d59;
+    border: 1px solid #495561;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+.dropdown-menu {
+    position: absolute;
+    will-change: transform;
+    top: 0px;
+    left: 0px;
+    transform: translate3d(-129px, -166px, 0px);
+}
+
+.badge {
+    color: #fff;
+}
+
+.ml-2,
+.mx-2 {
+    margin-left: 0.75rem !important;
+}
+
+.btn-light {
+    color: #fff;
+    background-color: #495561 !important;
+    border-color: #495561 !important;
+    height: 25px;
+}
+
+.font-18 {
+    font-size: 18px !important;
+}
+
+.btn-link {
+    font-weight: 400;
+    color: #3bafda;
+    background-color: transparent;
+}
+
+.back {
+    color: white;
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.title {
+    display: flex;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.search-bar {
+    border-radius: 5px;
+    border: 1px 1px 1px black;
+    box-shadow: 0px 1px 5px rgba(33, 35, 57, 0.2);
+}
+
+.search-bar:hover {
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px rgba(33, 35, 57, 0.349);
+}

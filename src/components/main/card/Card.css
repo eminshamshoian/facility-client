@@ -1,0 +1,101 @@
+.card-box {
+    background-clip: border-box;
+    padding: 1.5rem;
+    margin-bottom: 24px;
+    border-radius: 0.25rem;
+}
+
+.border {
+    background-color: #ffffff;
+    border: 0 !important;
+    box-shadow: 0px 1px 5px #81818133, 0px 1px 5px #3b3b3b33;
+    transition: background-color 0.2s linear;
+}
+
+.border:hover {
+    background-color: #625af513;
+    cursor: pointer;
+    transition: background-color 0.2s linear;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 10px 0;
+    font-weight: 500;
+    font-family: Roboto, sans-serif;
+    color: #2b2b2b;
+}
+
+.h3,
+h3 {
+    font-size: 2rem;
+}
+
+.font-weight-medium {
+    font-weight: 500;
+}
+.font-13 {
+    font-size: 13px !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+.mb-1,
+.my-1 {
+    margin-bottom: 0.375rem !important;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #303030;
+}
+
+.font-24 {
+    font-size: 24px !important;
+    color: #625af5;
+}
+
+.btn-add {
+    margin-bottom: 25px;
+    background-color: #625af5;
+    border: 0;
+}
+
+.btn-add:active {
+    background-color: #625af5;
+    transition: background-color 0.2s linear;
+}
+
+.btn-add:hover {
+    background-color: #4f49b9;
+    transition: background-color 0.2s linear;
+}
+
+.modal-submit-button {
+    background-color: #625af5;
+    color: #fff;
+    border: 0;
+}
+
+.modal-submit-button:active {
+    background-color: #625af5;
+    color: #fff;
+    transition: background-color 0.2s linear;
+}
+
+.modal-submit-button:hover {
+    background-color: #4f49b9;
+    color: #fff;
+    transition: background-color 0.2s linear;
+}
