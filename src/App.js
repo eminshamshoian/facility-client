@@ -20,7 +20,7 @@ function App() {
             <PersistGate persistor={persistor}>
                 <Router>
                     <Navbar />
-                    <div className='App'>
+                    <div className='App px-5'>
                         <Switch>
                             <PrivateRoute
                                 exact
